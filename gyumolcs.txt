@@ -2,3 +2,4 @@ alma
 korte
 barack
 szilva
+malna
