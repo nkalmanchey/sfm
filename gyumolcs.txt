@@ -3,3 +3,4 @@ korte
 barack
 szilva
 eper
+meggy
